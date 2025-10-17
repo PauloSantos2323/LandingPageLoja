@@ -2,14 +2,6 @@ Landing Page Exemplo
 
 Uma landing page moderna e responsiva desenvolvida com HTML, CSS e JavaScript. Ideal para apresentar produtos, serviços ou negócios digitais.
 
-📂Estrutura do Projeto
-
-landing-page/
-│
-├── index.html        # Estrutura principal da página
-├── style.css         # Estilos e layout
-├── script.js         # Funcionalidades interativas (menu e formulário)
-└── README.md         # Este arquivo
 
 🖥️ Tecnologias Utilizadas
 
